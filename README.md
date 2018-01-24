@@ -1,5 +1,8 @@
 # chatbot-workshop
 
+## Bot Framework Emulator
+Download here https://github.com/Microsoft/BotFramework-Emulator/releases
+
 ## Practical link
 
 Follow the steps here
